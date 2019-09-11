@@ -18,8 +18,9 @@ y en una instancia final se convierten en ineficientes e inservibles.
 
 # Problema/descripción del proceso actual: 
 
-como se soluciona actualmente el proceso que se va a mejorar y cual es el 
-problema que existe en la forma en que se soluciona.
+Poco uso del servicio web para manipular inventarios grandes de articulos
+electronicos para potenciar en gran cantidad la venta y distribucion de estos
+mismos, debido a falta de informacion y costos.
 
 # Solución: 
 

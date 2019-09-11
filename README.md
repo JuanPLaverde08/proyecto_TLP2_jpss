@@ -50,4 +50,4 @@ Diagrama de casos de uso adjunto en la rama, archivo con nombre: Casos de uso JP
 # Tablero de Actividades asignadas respecto a la lógica de negocio - BackEnd (GitHub)
 
 Link para acceder al tablero de actividades
-https://jpss.kanbantool.com/
+https://trello.com/b/rSyPwoId/jpss

@@ -22,6 +22,7 @@ Poco uso del servicio web para manipular inventarios grandes de articulos
 electronicos para potenciar en gran cantidad la venta y distribucion de estos
 mismos, debido a falta de informacion y costos.
 
+
 # Solución: 
 
 Por medio de la arquitectura por capas podemos plantear una mejor organizacion y reduccion
@@ -40,12 +41,11 @@ ademas de que sea ulil a largo plazo, lo suficiente para ser expandido a nivel n
 presenta igual el problema de falta de soluciones web para empresas que venden o manejan inventario
 de articulos electronicos.
 
+
 # Diagrama del proceso de ingeniería de software donde evidencie el problema a abordar: 
 
-cualquier diagrama del proceso de análisis de software que sustente
-o explique el flujo de trabajo de la solución. (casos de uso, diagrama de flujo,
-diagrama de máquinas de estado, diagrama de clases, diagrama de
-componentes ...)
+Diagrama de casos de uso adjunto en la rama, archivo con nombre: Casos de uso JPSS.jpg
+
 
 # Tablero de Actividades asignadas respecto a la lógica de negocio - BackEnd (GitHub)
 

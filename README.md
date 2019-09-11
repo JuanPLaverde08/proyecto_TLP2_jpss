@@ -24,19 +24,17 @@ mismos, debido a falta de informacion y costos.
 
 # Solución: 
 
-Cuál es la solución que usted plantea (puede explicar la arquitectura
-del software).
+Por medio de la arquitectura por capas podemos plantear una mejor organizacion y reduccion
+de costos para gener un desarrollo web claro y conciso, ayudando a que las personas
+que utilizan el servicio sean capaces de encontrar lo que buscan rapido y facilmente,
+ademas poderle dar una buena capacitación a los usuarios (dueños del proyecto) para 
+que potencien su produccion.
 
 
 # Justificación: 
 
-Como equipo queremos crear una solucion practica y facil con el fin de que el aplicativo
-cumpla con los estandares de calidad suficientes para entrar a competir con las apps ya existentes
-lo que queremos que nos caracterize es que nuestro aplicativo sea utilizable por cualquier persona
-ademas de que sea ulil a largo plazo, lo suficiente para ser expandido a nivel nacional que se
-presenta igual el problema de falta de soluciones web para empresas que venden o manejan inventario
-de articulos electronicos.
-
+ventajas competitivas que hay frente a la solución actual y la razón 
+por la cual es oportuno crear dicha solución.
 
 # Diagrama del proceso de ingeniería de software donde evidencie el problema a abordar: 
 
@@ -44,7 +42,6 @@ cualquier diagrama del proceso de análisis de software que sustente
 o explique el flujo de trabajo de la solución. (casos de uso, diagrama de flujo,
 diagrama de máquinas de estado, diagrama de clases, diagrama de
 componentes ...)
-
 
 # Tablero de Actividades asignadas respecto a la lógica de negocio - BackEnd (GitHub)
 

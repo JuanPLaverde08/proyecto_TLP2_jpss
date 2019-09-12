@@ -35,11 +35,10 @@ que potencien su produccion.
 # Justificación: 
 
 Como equipo queremos crear una solucion practica y facil con el fin de que el aplicativo
-cumpla con los estandares de calidad suficientes para entrar a competir con las apps ya existentes
+cumpla con los estandares de calidad suficientes para entrar a competir con las apps ya existentes,
 lo que queremos que nos caracterize es que nuestro aplicativo sea utilizable por cualquier persona
-ademas de que sea ulil a largo plazo, lo suficiente para ser expandido a nivel nacional que se
-presenta igual el problema de falta de soluciones web para empresas que venden o manejan inventario
-de articulos electronicos.
+ademas de que sea util a largo plazo, y ser lo suficientemente competitivo en el mercado  para expandirnos a nivel nacional en donde
+se ve reflejado el problema de falta de soluciones web para empresas que venden o manejan inventario de articulos electronicos.
 
 
 # Diagrama del proceso de ingeniería de software donde evidencie el problema a abordar: 

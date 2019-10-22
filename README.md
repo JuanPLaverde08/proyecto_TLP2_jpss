@@ -1,11 +1,10 @@
-# proyecto_TLP2_jpss
+# Diagrama UML
 
-Repositorio para trabajar el proyecto de la materia
-Taller de Lenguajes de Programacion 2
+![diagrama uml](https://user-images.githubusercontent.com/54405879/67258137-d1744900-f454-11e9-8c7b-1c9172e06ee6.jpg)
 
-Grupo 7:
+## Diagrama Logico
 
-## Juan Pablo Laverde
+
 ## Pedro Cordoba
 ## Santiago Avendaño
 ## Sofia Zapata
